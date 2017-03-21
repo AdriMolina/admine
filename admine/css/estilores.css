@@ -1,0 +1,135 @@
+
+img {
+  	width: 100%;
+  	height: 150px;
+    }
+#div1{
+  	margin-top: 20px;
+  }
+#div2{
+  background: url(../img/menu.jpg) no-repeat;
+  font-weight: bold;
+  color: white;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border-color: #AC8359;
+
+}
+  body{
+  	background: url(../img/f2.jpg) no-repeat fixed center center;
+  }
+
+  #divsli{
+  	margin-top: -10px;
+  }
+.navbar{
+  background-color: #AC8359;
+}
+
+#sect1{
+	background: #ffe6cc;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+  border: dashed;
+  border-radius: 12px;
+  border-color: #330000;
+}
+#art3{
+margin-top: 20px;
+}
+
+#btn1{
+	text-align: left;
+}
+
+#sect2{
+  background: #ffe6cc;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border-color: #AC8359;
+}
+
+footer{
+  background: #AC8359;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+
+  border-radius: 8px;
+  border-color: #330000;
+}
+#prin{
+  background: url(../img/boni.jpg) no-repeat fixed center center;
+}
+#fb{
+  height: 50px;
+  width: 50px;
+}
+#logo{
+  height: 125px;
+  width: 175px;
+  text-align:left;
+}
+#cro{
+  width: 350px;
+  height: 410px;
+}
+form h1{
+  text-align: center;
+  color: black;
+  font-weight: normal;
+  font-size: 40pt;
+  margin: 30px 0px;
+}
+#Nombre{
+width: 450px;
+height: 35px;
+padding: 0px 10px;
+margin: 10px 30px;
+color: #6d6d6d;
+text-align: center;
+
+
+}
+#E_mail{
+width: 450px;
+height: 35px;
+padding: 0px 10px;
+margin: 10px 30px;
+color: #6d6d6d;
+text-align: center;
+
+
+}
+#Asunto{
+width: 450px;
+height: 35px;
+padding: 0px 10px;
+margin: 10px 30px;
+color: #6d6d6d;
+text-align: center;
+
+
+}
+
+#Mensaje{
+width:450px;
+height: 100px;
+padding: 0px 10px;
+margin: 10px 30px;
+
+text-align: center;
+
+}
+
+#boton_enviar{
+width: 135px;
+margin: 20px 0px 30px 200px;
+height: 50px;
+
+}

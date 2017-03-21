@@ -1,0 +1,10 @@
+Código realizado usando Xampp
+
+Instrucciones básicas de uso de Xampp
+
+1. Para ingresar a las opciones de Xampp, en cualquier navegador hay que colocar en la barra de direcciones la palabra "localhost"
+2. Si se ingresa una base de datos, hay que realizarlo usando phpMyAdmin, crear una, darle un nombre, y realizarla ya sea de manera
+	manual o usando código.
+3. Todo proyecto que use php debe de ir en la carpeta C:\xampp\htdocs\
+4. Al momento de correr un archivo de php hay que colocar en la barra de direcciones en el navegador la direccion donde se encuentra
+	tal archivo, por ejemplo: http://localhost/login/verificacion.php

@@ -1,0 +1,70 @@
+.centrar{
+  margin: auto;
+  text-align: center;
+}
+
+#div1{
+  margin-top: 20px;
+}
+#logo {
+  height: 125px;
+  width: 150px;
+  text-align:left;
+}
+#fb{
+height: 50px;
+width: 50px;
+}
+
+body{
+  background: url(../img/f2.jpg) no-repeat fixed center center;
+}
+
+#divsli{
+  margin-top: -10px;
+}
+.navbar{
+background-color: #AC8359;
+}
+#tit{
+  font-weight: bold;
+}
+#prin{
+  background: url(../img/taquito.jpg);
+}
+#sect1{
+background: #ffe6cc;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 10px;
+border: dashed;
+border-radius: 12px;
+border-color: #330000;
+}
+#art3{
+margin-top: 20px;
+}
+
+#btn1{
+text-align: left;
+}
+
+#sect2{
+background:#ffe6cc;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 10px;
+border-radius: 8px;
+border-color: #ffe6cc;
+font-weight: bold;
+}
+
+footer{
+background: #AC8359;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 10px;
+border-radius: 8px;
+border-color: #330000;
+}
+﻿

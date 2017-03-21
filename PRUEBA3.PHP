@@ -1,0 +1,10 @@
+<html>
+<body>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width=62 height=30>
+<param name=movie value="http://192.168.56.1:88/nchflashplayer.swf" />
+<param name=quality value=best />
+<param name=FlashVars value="width=62&amp;streammode=1&amp;mp3=http://192.168.56.1:88/broadwavehigh.mp3?src=1" />
+<embed src="http://192.168.56.1:88/nchflashplayer.swf" FlashVars="width=62&amp;streammode=1&amp;mp3=http://192.168.56.1:88/broadwavehigh.mp3?src=1" width=62 height=30 quality=best type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+</object>
+</body>
+</html>

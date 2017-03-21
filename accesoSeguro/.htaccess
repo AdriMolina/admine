@@ -1,0 +1,6 @@
+Errordocument 401 /error.html
+AuthUserFile /wamp64/.htpass
+AuthgroupFile /dev/null
+AuthName "Realm-Name"
+AuthType Basic
+requiere valid-user
